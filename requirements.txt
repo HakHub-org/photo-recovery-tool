@@ -1,0 +1,8 @@
+# Requirements for Photo Recovery Tool
+
+# No additional Python packages are required.
+# The script uses standard Python libraries (e.g., subprocess).
+
+# Note: Ensure Python 3.x is installed.
+# External tool dependency: PhotoRec must be installed and accessible in the system's PATH.
+
